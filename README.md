@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/stnM2HL.png" alt="Developer at work" width="400" />
+<img src="https://i.imgur.com/tR0kixU.png" alt="Profile banner" />
 
 ## About Me
 
