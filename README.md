@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/r35r4F3.png" alt="Profile banner" />
+<img src="https://i.imgur.com/zE82w6a.png" alt="Profile banner" />
 
 ## About Me
 
