@@ -4,8 +4,8 @@
 
 I'm a software engineering student at the **Higher Institute of Informatics and Mathematics of Monastir**, passionate about building impactful technology and continuously expanding my knowledge. I enjoy full-stack development, working on real-world projects, and staying up to date with modern frameworks and tools.
 
-- Currently focused on **full-stack web** and **mobile app development**, with a strong interest in **AI integration**
-- Learning more about **AI Technologies** and **Cloud tools**
+- Currently focused on **Full-Stack Web** and **Mobile App Development**, with a strong interest in **AI Integration**
+- Learning more about **AI Technologies** and **Cloud Tools**
 - Interested in internships, freelance opportunities, and open-source collaboration
 - Open to sharing and gaining knowledge through meaningful connections
 
