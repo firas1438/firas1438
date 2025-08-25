@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a software engineering student at **ISIMM**, passionate about building impactful technology and continuously expanding my knowledge. I enjoy full-stack development, working on real-world projects, and staying up to date with modern frameworks and tools.
+I'm a software engineering student at the **Higher Institute of Informatics and Mathematics of Monastir**, passionate about building impactful technology and continuously expanding my knowledge. I enjoy full-stack development, working on real-world projects, and staying up to date with modern frameworks and tools.
 
 - Currently focused on **Full-stack web** and **Mobile app development**, with a strong interest in **AI Integration**
 - Learning more about **AI Technologies** and **Cloud tools**
